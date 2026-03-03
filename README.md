@@ -1,4 +1,4 @@
-kvm vm in C without the use of libvirt or quemu.
+kvm vm in C without the use of libvirt or qemu.
 
 Features:
 - A vm.
